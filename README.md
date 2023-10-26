@@ -16,6 +16,13 @@ This project comprises three primary MySQL files, enabling users to track my tra
 
 This project is presently in the Minimum Viable Product (MVP) phase and solely contains my data. In the future, I plan to develop a web application for others to track their own Olympic weightlifting progress, similar to a Strava for Olympic weightlifting. Potential future technologies may include Python, Flask, SQLAlchemy, HTML, CSS, JavaScript, and more.
 
+## Example View
+Query to view clean and jerk history
+
+<p align="center">
+  <img width="612" alt="Screenshot 2023-10-26 at 1 05 42 PM" src="https://github.com/haryoon/oly_wl_mvp/assets/70294083/cbbe738a-c74f-4072-b393-f189f57ea97a">
+</p>
+
 ## How to Install and Run the Project
 
 1. Save the files locally or clone the repository.
