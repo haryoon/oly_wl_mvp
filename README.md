@@ -1,6 +1,6 @@
 ## Project Description
 
-Olympic weightlifting combines my pursuit of strength with my passion for databases; I initiated this project to monitor my Olympic weightlifting training progress while honing my SQL skills.
+Olympic weightlifting combines my pursuit of strength with my passion for databases; I created this project to monitor my Olympic weightlifting training progress while honing my SQL skills.
 
 For context, Olympic weightlifting is a competitive sport featuring two primary lifts: the snatch and the clean and jerk. The snatch involves lifting the barbell from the ground to overhead in one motion, while the clean and jerk consists of lifting it to the shoulders before jerking it overhead. Competitions are categorized by weight classes, with athletes receiving three attempts in each lift to achieve the highest total weight lifted. The lifter with the greatest combined weight in the snatch and clean and jerk triumphs.
 
@@ -8,7 +8,13 @@ For context, Olympic weightlifting is a competitive sport featuring two primary 
   <img src="https://barbend.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-05-at-10.18.51-PM.png" alt="Snatch" width="400" height="321" />
 </p>
 
-This project comprises three primary MySQL files, enabling users to track my training progress. The SQL files are as follows:
+I started this project by creating a database schema.
+  
+<p align="center">
+  <img width="800" alt="Screenshot 2023-10-26 at 1 37 20 PM" src="https://github.com/haryoon/oly_wl_mvp/assets/70294083/ea08237a-ed26-4358-80d8-0224f4162417">
+</p>
+
+Based on the schema, I created three MySQL files, which enable users to track my training progress. The SQL files are as follows:
 
 - **installation.sql**: This file establishes a database and five tables for tracking workout sets, movements, equipment used, movement types, and targeted body areas.
 - **mock_data.sql**: It populates the database with my personal training data from late September 2023.
