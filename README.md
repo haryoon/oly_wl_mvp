@@ -11,7 +11,7 @@ For context, Olympic weightlifting is a competitive sport featuring two primary 
 I started this project by creating a database schema.
   
 <p align="center">
-  <img width="800" alt="Screenshot 2023-10-26 at 1 37 20 PM" src="https://github.com/haryoon/oly_wl_mvp/assets/70294083/ea08237a-ed26-4358-80d8-0224f4162417">
+  <img width="800" alt="Screenshot 2023-10-26 at 1 44 44 PM" src="https://github.com/haryoon/oly_wl_mvp/assets/70294083/3f7a3311-0cff-4ddf-9183-a414714e32d9">
 </p>
 
 Based on the schema, I created three MySQL files, which enable users to track my training progress. The SQL files are as follows:
