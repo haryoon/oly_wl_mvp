@@ -1,3 +1,11 @@
+<h1 align="center">Olympic Weightlifting Database</h1>
+To view in browser, click on the following files in this repository:
+<ul>
+  <li><b>installation.sql</b></li>
+  <li><b>mock_data.sql</b></li>
+  <li><b>analysis.sql</b></li>
+</ul>
+
 ## Project Description
 
 Olympic weightlifting combines my pursuit of strength with my passion for databases; I created this project to monitor my Olympic weightlifting training progress while honing my SQL skills.
