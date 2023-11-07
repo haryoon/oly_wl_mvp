@@ -1,12 +1,12 @@
 <h1 align="center">Olympic Weightlifting Database</h1>
-To view in browser, click on the following files in this repository:
-<ul>
-  <li><b>installation.sql</b></li>
-  <li><b>mock_data.sql</b></li>
-  <li><b>analysis.sql</b></li>
-</ul>
 
-## Project Description
+## Table of Contents
+1. [Project Description](#first_link)
+2. [Example View](#second_link)
+3. [How to Install and Run the Project](#third_link)
+4. [How to View Files in the Browser](#fourth_link)
+
+## Project Description <a id='first_link'></a>
 
 Olympic weightlifting combines my pursuit of strength with my passion for databases; I created this project to monitor my Olympic weightlifting training progress while honing my SQL skills.
 
@@ -30,14 +30,14 @@ Based on the schema, I created three MySQL files, which enable users to track my
 
 This project is presently in the Minimum Viable Product (MVP) phase and solely contains my data. In the future, I plan to develop a web application for others to track their own Olympic weightlifting progress, similar to a Strava for Olympic weightlifting. Potential future technologies may include Python, Flask, SQLAlchemy, HTML, CSS, JavaScript, and more.
 
-## Example View
+## Example View <a id='second_link'></a>
 Query to view clean and jerk history
 
 <p align="center">
   <img width="612" alt="Screenshot 2023-10-26 at 1 05 42 PM" src="https://github.com/haryoon/oly_wl_mvp/assets/70294083/cbbe738a-c74f-4072-b393-f189f57ea97a">
 </p>
 
-## How to Install and Run the Project
+## How to Install and Run the Project <a id='third_link'></a>
 
 1. Save the files locally or clone the repository.
 2. Open a terminal or a SQL GUI, such as MySQL Workbench.
@@ -45,3 +45,12 @@ Query to view clean and jerk history
     1. **installation.sql**
     2. **mock_data.sql**
     3. Open **analysis.sql** and select a query to run.
+
+## How to View Files in the Browser <a id='fourth_link'></a>
+
+To view in the browser, click on the following files in this repository:
+<ul>
+  <li><b>installation.sql</b></li>
+  <li><b>mock_data.sql</b></li>
+  <li><b>analysis.sql</b></li>
+</ul>
